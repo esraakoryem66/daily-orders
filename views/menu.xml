@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_today_root"
+    name="Orders Today"
+    sequence="10"/>
+
+    <menuitem id="menu_today_orders"
+    name="Orders"
+    parent="menu_today_root"
+    sequence="10"/>
+
+    
+</odoo>

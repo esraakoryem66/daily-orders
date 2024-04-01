@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+ <report
+    id="report_order_card"
+    string="Order Card"
+    model="today.orders"
+    report_type="qweb-pdf"
+    name="today_orders.report_order_carddd"
+    file="today_orders.report_order_carddd"
+ />
+ <report
+    id="report_order_card_2"
+    string="Loops"
+    model="today.orders"
+    report_type="qweb-pdf"
+    name="today_orders.report_order2"
+    file="today_orders.report_order2"
+ />
+</odoo>

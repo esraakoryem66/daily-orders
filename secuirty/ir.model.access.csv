@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+today_orders.access_today_orders,access_today_orders,today_orders.model_today_orders,base.group_user,1,1,1,1
